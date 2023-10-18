@@ -16,7 +16,7 @@ global.ytname = "YT: Xeon"
 global.socialm = "GitHub: Duxlin"
 global.location = "Immortal Realm"
 
-global.ownernumber = '2347082252014'  //creator number
+global.ownernumber = '2349167632397','2347082252014'  //creator number
 global.ownername = 'Dux' //owner name
 global.botname = 'Duxbot' //name of the bot
 
